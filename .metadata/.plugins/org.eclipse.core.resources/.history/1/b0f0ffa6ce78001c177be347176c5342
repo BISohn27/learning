@@ -1,0 +1,12 @@
+package XML;
+
+import javax.xml.parsers.DocumentBuilderFactory;
+
+public class DOMParserXML {
+	try {
+		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+		
+	}catch(ParcerConfiguationException e) {
+		
+	}
+}

@@ -1,0 +1,22 @@
+package Socket;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.net.ServerSocket;
+import java.net.Socket;
+
+public class SocketServerRetry {
+ServerSocket server;
+	
+	public SocketServerRetry(int port) throws IOException{
+		this.server = new ServerSocket(port);
+	}
+	
+	public void receiveFile(String path) throws Exception{
+		Socket socket = server.accept();
+		System.out.println("서버 통신 시작");
+		
+		InputStream is = socket.getInputStream();
+		
+	}
+}

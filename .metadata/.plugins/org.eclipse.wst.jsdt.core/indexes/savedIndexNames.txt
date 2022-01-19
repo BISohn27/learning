@@ -1,0 +1,3 @@
+INDEX VERSION 1.4+C:\Users\skylo\Desktop\java\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+222330816.index
+3356962075.index

@@ -1,0 +1,9 @@
+package string;
+
+public class EncodeAllFilesString {
+	EncodeFileString efs = new EncodeFileString();
+	
+	public void encodeDirectory(String dirSrc, String charset) {
+		
+	}
+}

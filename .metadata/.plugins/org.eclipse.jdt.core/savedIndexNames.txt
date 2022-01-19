@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\skylo\Desktop\java\.metadata\.plugins\org.eclipse.jdt.core
+1704979481.index
+3356962075.index
+165214283.index
+1212018538.index

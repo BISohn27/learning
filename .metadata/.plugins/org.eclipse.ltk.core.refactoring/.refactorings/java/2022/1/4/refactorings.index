@@ -1,0 +1,8 @@
+1642548399467	Rename type 'encodeFileString'
+1642552893721	Move compilation unit
+1642555200960	Move compilation unit
+1642557578097	Rename type 'createXML'
+1642557848356	Rename type 'ParcerXML'
+1642557946362	Rename compilation unit 'DOMParcerXML.java'
+1642557950410	Rename type 'SAXParcerXML'
+1642573585812	Rename type 'Socket'
